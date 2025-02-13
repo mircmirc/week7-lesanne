@@ -1,4 +1,4 @@
-const displayResult = document.querySelector('#result');
+const displayResult = document.querySelector('.result');
 const btnGetAPrediction = document.querySelector("button");
 
 const options = [
